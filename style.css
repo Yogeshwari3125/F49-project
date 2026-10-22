@@ -88,7 +88,7 @@ a{
 }
 
 .d2{
-    background-image: url(../projects/assest/ch1.png);
+    background-image: url(assest/ch1.png);
     opacity: 0.8;
     width: 100%;
     height: 500px;
@@ -157,7 +157,7 @@ h1{
 
 /*home.html*/
 .d4{
-    background-image: url(../projects/assest/bottom.avif);
+    background-image: url(assest/bottom.avif);
     background-size: cover;
     opacity: 1;
     width: 100%;
@@ -167,7 +167,7 @@ h1{
 }
 
 .d5{
-    background-image: url(../projects/assest/c14.jpg);
+    background-image: url(assest/c14.jpg);
     background-size: cover;
     height: 300px;
     padding: 30px;
@@ -199,7 +199,7 @@ h1{
 
 /*product.html*/
 .p1{
-    background-image: url(../projects/assest/c11.avif);
+    background-image: url(assest/c11.avif);
     background-size: cover;
     width: 100%;
     height: 700px;
@@ -223,7 +223,7 @@ h1{
 
 /* contact.html */
 .c1{
-    background-image: url(../projects/assest/c13.jpg);
+    background-image: url(assest/c13.jpg);
     background-size: cover;
     height: 200px;
     padding: 10px;
@@ -390,7 +390,7 @@ a{
 }
 
 .d2{
-    background-image: url(../projects/assest/ch1.png);
+    background-image: url(assest/ch1.png);
     opacity: 0.8;
     width: 100%;
     height: 500px;
@@ -465,7 +465,7 @@ h1{
 
 /*home.html*/
 .d4{
-    background-image: url(../projects/assest/bottom.avif);
+    background-image: url(assest/bottom.avif);
     background-size: cover;
     opacity: 1;
     width: 100%;
@@ -475,7 +475,7 @@ h1{
 }
 
 .d5{
-    background-image: url(../projects/assest/c14.jpg);
+    background-image: url(assest/c14.jpg);
     background-size: cover;
     height: 300px;
     padding: 30px;
@@ -495,7 +495,7 @@ h1{
 
 /*product.html*/
 .p1{
-    background-image: url(../projects/assest/c11.avif);
+    background-image: url(assest/c11.avif);
     background-size: cover;
     width: 100%;
     height: 700px;
@@ -530,7 +530,7 @@ h1{
 
 /* contact.html */
 .c1{
-    background-image: url(../projects/assest/c13.jpg);
+    background-image: url(assest/c13.jpg);
     background-size: cover;
     height: 200px;
     padding: 10px;
@@ -688,7 +688,7 @@ a{
 }
 
 .d2{
-    background-image: url(../projects/assest/ch1.png);
+    background-image: url(assest/ch1.png);
     opacity: 0.8;
     width: 100%;
     height: 500px;
@@ -743,7 +743,7 @@ h1{
 }
 
 .d4{
-    background-image: url(../projects/assest/bottom.avif);
+    background-image: url(assest/bottom.avif);
     background-size: cover;
     opacity: 1;
     width: 100%;
@@ -753,7 +753,7 @@ h1{
 }
 
 .d5{
-    background-image: url(../projects/assest/c14.jpg);
+    background-image: url(assest/c14.jpg);
     background-size: cover;
     height: 300px;
     padding: 30px;
@@ -782,7 +782,7 @@ h1{
 }
 
 .p1{
-    background-image: url(../projects/assest/c11.avif);
+    background-image: url(assest/c11.avif);
     background-size: cover;
     width: 100%;
     height: 700px;
@@ -801,7 +801,7 @@ h1{
 }
 
 .c1{
-    background-image: url(../projects/assest/c13.jpg);
+    background-image: url(assest/c13.jpg);
     background-size: cover;
     height: 300px;
     padding: 10px;
@@ -865,7 +865,7 @@ h3{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-
+}
 
 .inside1{
     display: flex;
